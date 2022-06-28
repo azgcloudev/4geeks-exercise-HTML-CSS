@@ -9,6 +9,7 @@ nav {
     background-color: white;
     text-align: center;
     font-size: 2em;
+    font-weight: 700;
 }
 
 .image-block {
@@ -21,6 +22,17 @@ nav {
 .block-header {
     text-align: center;
     padding: 20px;
+    display: flex;
+}
+
+.post-title {
+    width: 90%;
+    text-align: left;
+}
+
+.image-number {
+    width: 10%;
+    font-size: 0.7em;
 }
 
 .block-image {
