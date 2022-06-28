@@ -1,0 +1,33 @@
+body {
+    background-color: lightcyan;
+    padding: 0;
+    margin: 0;
+
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+.image-block {
+    width: 400px;
+    margin: auto;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.block-header {
+    text-align: center;
+    padding: 20px;
+}
+
+.block-image {
+    width: 100%;
+}
+
+.block-foot {
+    background-color: white;
+    padding: 10px;
+}
